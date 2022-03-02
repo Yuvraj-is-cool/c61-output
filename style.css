@@ -1,0 +1,23 @@
+.line {
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin: 8px;   
+}
+#Apps {
+background-color:red;
+height: 700px;
+width: 100%;
+}
+#Games {
+     background-color:rgb(9, 255, 0);
+    height: 280px;
+    width: 100%;
+    
+    }
+    #Chatbot {
+        background-color:cyan;
+    height: 500px;
+    width: 100%;
+    }
+    
